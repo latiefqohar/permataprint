@@ -1,0 +1,56 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: whitesmoke;
+}
+.header {
+    display: flex;
+    background-color: #00b297;
+    list-style: none;
+    justify-content: space-between;
+    margin-top: 0;
+    padding: 15px;
+}
+.head-link{
+    color: white;
+    font-size: 30px;
+    font-weight: bolder;
+    margin-left: 150px;
+}
+.login{
+    color: white;
+    text-decoration: none;
+    font-size: 30px;
+    margin-right: 250px;
+}
+
+/* <!--navbar & header--> */
+
+.navbar{
+    margin-top: -16px;
+    background-color: white;
+}
+.collapse{
+    justify-content: center;
+}
+.nav-item{
+    margin-left: 30px;
+}
+
+.au{
+    background-color: white;
+    margin-top: 20px;
+    padding-top: 20px;
+}
+
+/* kelola produk */
+
+.tulispro{
+    margin: 40px 0 20px 80px;
+    text-transform: capitalize;
+    font-size: 20px;
+}
+.pros{
+    width: 70%;
+    margin-left: 200px;
+}

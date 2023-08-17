@@ -1,0 +1,41 @@
+body {
+    font-family: sans-serif;
+    margin: 0px;
+    padding: 0px;
+}
+.navbar-brand {
+    margin-left: 100px;
+    font-size: 32px;
+    color: #5f687b;
+}
+.navbar-nav {
+    padding-left: 150px;
+}
+.nav-item {
+    padding-left: 8px;
+}
+.nav-log {
+    margin-left: 220px;
+}
+.nav-link:hover {
+    color: #16DF7E;
+}
+
+/* formregis */
+
+.container {
+    margin-top: 100px;
+}
+.registrasi {
+    width: 40%;
+}
+.new {
+    text-align: center;
+}
+
+@media (max-width: 1080.98px) { 
+    .nav-log {
+        margin-left: 0px;
+    }
+
+}

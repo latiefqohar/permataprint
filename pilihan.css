@@ -1,0 +1,87 @@
+body {
+    font-family: sans-serif;
+    margin: 0px;
+    padding: 0px;
+}
+.navbar-brand {
+    margin-left: 100px;
+    font-size: 32px;
+    color: #5f687b;
+}
+.navbar-nav {
+    padding-left: 150px;
+}
+.nav-item {
+    padding-left: 8px;
+}
+.nav-log {
+    margin-left: 220px;
+}
+.nav-link:hover {
+    color: #16DF7E;
+}
+
+/* konten */
+
+.kon {
+    margin-left: 100px;
+    margin-right: 100px;
+}
+h2 {
+    margin-top: 100px;
+    padding-bottom: 50px;
+}
+/* .kon1 {
+    margin-left: 100px;
+    text-align: justify;
+} */
+
+/*pilihan produk 1 - o-neck*/
+
+.card {
+    border: none;
+    justify-content: center;
+    text-align: center;
+}
+img{
+    margin-left: 90px;
+}
+.card-title{
+    font-size: 15px;
+}
+.card-text{
+    font-size: 14px;
+    color: blue;
+    padding-bottom: 30px;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+/* Footer */
+
+.baris{
+    background-color: black;
+    margin-top: 7rem;
+}
+/* .kolom{
+    color: white;
+} */
+h3{
+    color:white
+}
+h5 {
+    color: white;
+}
+@media (max-width: 1080.98px) { 
+    .nav-log {
+        margin-left: 0px;
+    }
+    img {
+        margin-top: 30px;
+    }
+    .col {
+        text-align: center;
+    }
+
+}

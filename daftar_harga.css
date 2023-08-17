@@ -1,0 +1,62 @@
+body {
+    font-family: sans-serif;
+    margin: 0px;
+    padding: 0px;
+}
+.navbar-brand {
+    margin-left: 100px;
+    font-size: 32px;
+    color: #5f687b;
+}
+.navbar-nav {
+    padding-left: 150px;
+}
+.nav-item {
+    padding-left: 8px;
+}
+.nav-log {
+    margin-left: 220px;
+}
+.nav-link:hover {
+    color: #16DF7E;
+}
+
+/* harga sablon */
+
+.harga {
+    margin-top: 100px;
+}
+h3 {
+    text-transform: uppercase;
+    text-align: center;
+    margin-bottom: 20px;
+    font-weight: bold;
+}
+h4 {
+    text-transform: uppercase;
+    text-align: center;
+    margin-bottom: 20px;
+}
+img.picharga {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.ketharga {
+    text-align: justify;
+    margin: 20px 400px 0 413px;
+    font-size: 18px;
+}
+@media (max-width: 1080.98px) { 
+    .nav-log {
+        margin-left: 0px;
+    }
+    img {
+        margin-top: 30px;
+    }
+    .col {
+        text-align: center;
+    }
+
+}
+
